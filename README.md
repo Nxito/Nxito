@@ -1,12 +1,9 @@
-<a href="https://discord.com/users/384025209499549722"><img align="right" width=50% src="https://lanyard-profile-readme.vercel.app/api/384025209499549722?theme=dark&bg=52221a&animated=false&hideDiscrim=true&borderRadius=15px&idleMessage= Probably toggling between debugging code and watching anime)"></a>
-
+<a href="https://discord.com/users/384025209499549722">
+<img align="right" width=50% src="https://lanyard-profile-readme.vercel.app/api/384025209499549722?theme=dark&bg=52221a&animated=false&hideDiscrim=true&borderRadius=15px&idleMessage=Probably%20toggling%20between%20debugging%20code%20and%20watching%20anime"></a>
 
 ### **Hi! I'm Nxito 🍟**
 
 **`FullStack Developer and Gamer`** 
-
-
-
 
 ## **☕ About me**
 <a href="https://github.com/Nxito"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820089393273/910238.160.webp"></a>I'm potato boy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
