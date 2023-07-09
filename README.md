@@ -6,7 +6,7 @@
 **`FullStack Developer and Gamer`** 
 
 ## **☕ About me**
-<a href="https://github.com/Nxito"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820089393273/910238.160.webp"></a>I'm potato boy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
+<a href="https://github.com/Nxito"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820089393273/910238.160.webp"></a>I'm galician boy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
