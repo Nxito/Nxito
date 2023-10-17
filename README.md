@@ -26,7 +26,7 @@ Jack of all trades, master of none.
 <!-- <div><a href="https://github.com/Nxito"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p >
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>--> 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&hide=NSIS"/></p>
 
 ## **📫 Contact**
 <a href="https://github.com/Nxito"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820986961991/1119150.160.webp" /></a>
