@@ -11,15 +11,12 @@
 
 ## **💻 Experience**
 <a href="https://github.com/Nxito"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820357816450/1119115.160.webp"></a>
-I'm currently studying Golang at home. 
 
 I learn robotics at "Santiago de Compostela" at 2019.
 
-I have 4 years of experience coding JS with node-red and dockers at TecDeSoft and I am still learning. 
+I have 4 years of experience coding JS with node-red and docker. 
 
-I don't have anything special, but I hope to be able to change that in the future.
-
-Jack of all trades, master of none.
+I always keep studying.
 
 
 ## **📊 Github Stats**
