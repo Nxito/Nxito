@@ -8,11 +8,15 @@
 ## **☕ About me**
 <a href="https://github.com/Nxito"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820089393273/910238.160.webp"></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
 <br><br>
+ 
+
 
 ## **💻 Experience**
 <a href="https://github.com/Nxito"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820357816450/1119115.160.webp"></a>
 
 I learn robotics at "Santiago de Compostela" at 2019.
+
+
 
 I have 4 years of experience coding JS with node-red and docker. 
 
@@ -34,4 +38,8 @@ I always keep studying.
 **Or check my github portfolio:** [nxito.github.io](https://nxito.github.io/)
 
 <a href="https://github.com/Nxito/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Nxito"></a><a href="https://github.com/Nxito"> <img src="https://img.shields.io/github/followers/Nxito?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>  
+<a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+<a href="https://api.whatsapp.com/send/?phone=644161447&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp-blue&logoColor=white" alt="Whatsapp-blue Badge"/></a>
+
