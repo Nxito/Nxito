@@ -1,36 +1,49 @@
-<a href="https://discord.com/users/384025209499549722"> 
-<img align="right" width=50% src="https://lanyard-profile-readme.vercel.app/api/384025209499549722?theme=dark&bg=52221a&animated=false&hideDiscrim=true&borderRadius=15px&idleMessage=Probably%20toggling%20between%20debugging%20code%20and%20watching%20anime"> </a>
+
 
 ### **Hi! I'm Nxito 🍟**
-
-**`Programmer and Gamer`** 
-
+ 
+**`Geek Programmer and Gamer`** 
+ 
 ## **☕ About me**
-<a href="https://github.com/Nxito"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820089393273/910238.160.webp"></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
-<br><br>
  
 
+<a href="https://github.com/Nxito"><img align="left" width="150" src="https://github.com/Nxito/Nxito/blob/main/monkey-d-luffy-eating-watermelon-sticker.png?raw=true"></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
+<br><br>
+ <br><br>
+<br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Nxito"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820357816450/1119115.160.webp"></a>
+<a href="https://github.com/Nxito"><img align="right" width="150" src="https://github.com/Nxito/Nxito/blob/main/naruto-uzumaki-with-a-laptop-sticker.png?raw=true"></a>
 
-I learn robotics at "Santiago de Compostela" at 2019.
+- Knowledge about robotics, arduino, rasberry, programming ( js, lua, golang,c++, CTRL ) and a few more.
+
+- +4 years of experience coding JS professionally and more as hobby.
 
 
-
-I have 4 years of experience coding JS with node-red and docker. 
-
-I always keep studying.
-
+- I always keep studying.
+ 
+ 
 
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/Nxito"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p >
+<p>
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>--> 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&hide=NSIS"/></p>
+ <a href="https://github.com/Nxito"><img align="left" width="200" src="https://raw.githubusercontent.com/Nxito/Nxito/main/sitting-tabby-cat-sticker.webp" /></a>
+
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&hide=NSIS"/>
+
+</p>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+<br><br>
+
 
 ## **📫 Contact**
-<a href="https://github.com/Nxito"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1127380715747688540/1127380820986961991/1119150.160.webp" /></a>
+
 **Please Contact me on Discord for a quick response:** [Nxito](https://discord.com/users/384025209499549722)
 
 **You can also email me here:** anxo97vb@gmail.com
