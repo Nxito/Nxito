@@ -9,7 +9,7 @@
 
 <a href="https://github.com/Nxito"><img align="left" width="150" src="https://github.com/Nxito/Nxito/blob/main/monkey-d-luffy-eating-watermelon-sticker.png?raw=true"></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
 <br><br>
- <br><br>
+<br><br>
 <br><br>
 
 ## **💻 Experience**
@@ -17,10 +17,10 @@
 
 - Knowledge about robotics, arduino, rasberry, programming ( js, lua, golang,c++, CTRL ) and a few more.
 
-- +4 years of experience coding JS professionally and more as hobby.
+- +5 years of experience coding JS professionally and more as hobby.
 
 
-- I always keep studying.
+- I always keep studying and improving.
  
  
 
