@@ -30,8 +30,6 @@
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>--> 
  <a href="https://github.com/Nxito"><img align="left" width="200" src="https://raw.githubusercontent.com/Nxito/Nxito/main/sitting-tabby-cat-sticker.webp" /></a>
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxito&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&hide=NSIS"/>
-
 </p>
 
 <br><br>
