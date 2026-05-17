@@ -17,7 +17,7 @@
 
 - Knowledge about robotics, arduino, rasberry, programming ( js, lua, golang,c++, CTRL ) and a few more.
 
-- +5 years of experience coding JS professionally and more as hobby.
+- +5 years of experience coding JS professionally, Docker, k8s.. and more as hobby.
 
 
 - I always keep studying and improving.
