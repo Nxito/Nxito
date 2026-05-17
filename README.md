@@ -7,7 +7,7 @@
 ## **☕ About me**
  
 
-<a href="https://github.com/Nxito"><img align="left" width="200" src="https://raw.githubusercontent.com/Nxito/Nxito/main/sitting-tabby-cat-sticker.webp" /></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
+<a href="https://github.com/Nxito"><img align="left" width="150" src="https://raw.githubusercontent.com/Nxito/Nxito/main/sitting-tabby-cat-sticker.webp" /></a>I'm galician geek guy and my hobbies are playing games, watching anime, listen music, and sometimes tinkering with random stuff like coding.
 <br><br>
 <br><br>
 <br><br>
